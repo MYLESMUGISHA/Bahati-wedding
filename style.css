@@ -158,33 +158,31 @@ padding-bottom:1px;
     height:180px;
     }
  
-    @media only screen and (max-width: 600px) {
-        body {
-          /* background-color: lightblue; */
-          width: 450px;
-          background-image: url(/save\ the\ date.jpg);
+    @media only screen and (max-width: 400px) {
+    
+        table{
+           margin-top: 280px;
+            width: 200px;
+            margin-left: 30px;
+            margin-right: 20px;
+            height: 250px;
 
         }
-        ul{
-            margin-left: 20px;
+
+        .table-section{
+        height:300px;
         }
-        table{
-            margin-left:-40px;
-            margin-right: -2px;
-            width: 400px;
-            padding-bottom: 120px;
-        }
+
         ul{
-            margin-left: 20px;
+            margin-left: 40px;
             font-size:20px;
             color:#EA748E;
+            
         }
         ul:hover{
             list-style-type:lower-greek;
             color:#009c8e;
            }
-
-
         .invitation{
             display: flex;
             margin-left: 50px;
@@ -198,16 +196,22 @@ padding-bottom:1px;
                 }
                 #bahati{
                     text-align: center;
-                    margin-left: -100px;
+                    margin-left: 20px
                 }
 #wedding{
-margin-left: -100px;
+margin-left: 30px;
+
 }
+#time:hover{
+    color: darkorchid;
+
+}
+  #footer{
+      font-size: 15px;
+  }
+
+
       }
     
-    #time:hover{
-        color: darkorchid;
-
-    }
-      
+   
     

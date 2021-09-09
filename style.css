@@ -132,7 +132,7 @@ padding-bottom:1px;
     ul{
         font-size: 2rem;
      margin-left:150px;
-     margin-right: 120px;
+     /* margin-right: 120px; */
      color:#cace91;
     }
     ul:hover{
@@ -158,7 +158,7 @@ padding-bottom:1px;
     height:180px;
     }
  
-    @media only screen and (max-width: 360px) {
+    @media only screen and (max-width: 420px) {
     
         table{
            margin-top: 280px;

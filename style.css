@@ -122,7 +122,7 @@ padding-bottom:1px;
 
     }
     #wedding{
-        color:#ced8e4;
+        color:black;
         font-size: 2rem;
         text-align: center;
         /* margin-top: 50px; */
@@ -161,16 +161,17 @@ padding-bottom:1px;
     @media only screen and (max-width: 420px) {
     
         table{
-           margin-top: 280px;
-            width: 200px;
+           margin-top: 120px;
+            width: 350px;
             margin-left: 30px;
             margin-right: 20px;
-            height: 350px;
+            height: 300px;
 
         }
 
         .table-section{
-        height:350px;
+        height:300px;
+        margin-top: 80px;
         }
 
         ul{

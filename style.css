@@ -10,6 +10,7 @@
 
 a {
     text-decoration: none;
+    color:#9cc2d5;
 }
 
 img {
@@ -152,17 +153,19 @@ padding-bottom:1px;
     #footer {
         text-align: center;
        padding-top: 30px;
+       position:fixed;
     }
     .table-section{
         margin-bottom:60px;
     height:180px;
+
     }
  
     @media only screen and (max-width: 420px) {
     
         table{
            margin-top: 100px;
-            width: 350px;
+            width: 330px;
             margin-left: 30px;
             margin-right: 20px;
             height: 300px;

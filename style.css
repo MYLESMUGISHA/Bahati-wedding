@@ -158,19 +158,19 @@ padding-bottom:1px;
     height:180px;
     }
  
-    @media only screen and (max-width: 400px) {
+    @media only screen and (max-width: 360px) {
     
         table{
            margin-top: 280px;
             width: 200px;
             margin-left: 30px;
             margin-right: 20px;
-            height: 250px;
+            height: 350px;
 
         }
 
         .table-section{
-        height:300px;
+        height:350px;
         }
 
         ul{
@@ -207,7 +207,9 @@ margin-left: 30px;
 
 }
   #footer{
-      font-size: 15px;
+      font-size: 16.5px;
+      padding-top: -10px;
+     
   }
 
 

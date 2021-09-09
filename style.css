@@ -160,7 +160,12 @@ padding-bottom:1px;
     height:180px;
 
     }
- 
+ #message{
+     color: #01539d;
+     font-size:16px;
+     text-align: center;
+ }
+
     @media only screen and (max-width: 420px) {
     
         table{

@@ -7,7 +7,6 @@
 
 }
 
-
 a {
     text-decoration: none;
     color:#CA1F3D;
@@ -24,9 +23,6 @@ html {
     scroll-behavior: smooth;
 }
 
-
-
-
 .aline{
     width: 100%;
      background-image:url("/imgs/aline1.jpg");
@@ -41,7 +37,6 @@ html {
 
 
 }
-
 
 @keyframes bahatiAnimation {
     0% {
@@ -66,7 +61,6 @@ html {
      height: 300px;
      margin: 0px;
     /* animation:  bahatiAnimation 25s infinite ; */
-
 }
 
 .coordination{
@@ -87,7 +81,6 @@ background-color:#f4e6c1;
          margin-top: 35px;
          margin-left: 180px;
          width: 50%;
-       
 
      }
 
@@ -166,7 +159,6 @@ padding-bottom:1px;
      font-size:25px;
      text-align: center;
  }
-
     @media only screen and (max-width: 420px) {
     
         table{
@@ -175,7 +167,6 @@ padding-bottom:1px;
             margin-left: 30px;
             margin-right: 20px;
             height: 300px;
-        
 
         }
 

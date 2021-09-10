@@ -10,7 +10,7 @@
 
 a {
     text-decoration: none;
-    color:#9cc2d5;
+    color:#CA1F3D;
 }
 
 img {
@@ -70,7 +70,7 @@ html {
 }
 
 .coordination{
-background-color:teal;
+background-color:#f4e6c1;
     display: flex;
     flex-direction: column;
     
@@ -96,7 +96,7 @@ background-color:teal;
         
     }
     #bahati{
-        color:cadetblue;
+        color:#CA1F3D;
         font-size: 1.5rem;
     }
     #bahati:hover{
@@ -188,7 +188,7 @@ padding-bottom:1px;
         ul{
             margin-left: 40px;
             font-size:20px;
-            color:#EA748E;
+            color:#2083F8;
             
         }
         ul:hover{
